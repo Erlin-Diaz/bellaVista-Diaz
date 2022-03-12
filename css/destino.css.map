@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/origen.scss"],"names":[],"mappings":"AACA;AAGC;EACC;;AACA;EACC;;;AAKH","file":"destino.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/origen.scss","../scss/_main.scss","../scss/base/_variables.scss"],"names":[],"mappings":"AAAA;ACAA;AAGA;EACC,kBCJM;;ADML;EACC,kBCPI;;ADSL;EACC,kBCVI;;ADWJ;EACC,kBCXG;;ADcJ;EACC,kBCdE","file":"destino.css"}

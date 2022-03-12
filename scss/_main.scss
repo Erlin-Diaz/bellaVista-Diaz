@@ -1,0 +1,21 @@
+/*Anidamiento*/
+@import "base/variables";
+
+main{
+	background-color: $fondo;
+	div{
+		.col{
+			background-color: $fondo;	
+		}
+		.card{
+			background-color: $fondo;
+			h3{
+				background-color: $bg_h3;
+
+			}
+			p{
+				background-color: $bg_p;
+			}
+		}
+	}
+}

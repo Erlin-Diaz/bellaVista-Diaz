@@ -1,11 +1,19 @@
-/*Anidamiento*/
-div h3 {
-  background-color: greenyellow;
-}
-div h3:hover {
-  background-color: white;
-}
-
 /*Import*/
+/*Anidamiento*/
+main {
+  background-color: #7D6AA6;
+}
+main div .col {
+  background-color: #7D6AA6;
+}
+main div .card {
+  background-color: #7D6AA6;
+}
+main div .card h3 {
+  background-color: #A988F2;
+}
+main div .card p {
+  background-color: #BFBFBF;
+}
 
 /*# sourceMappingURL=destino.css.map */
