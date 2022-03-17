@@ -1,19 +1,29 @@
 /*Import*/
 /*Anidamiento*/
 main {
-  background-color: #7D6AA6;
+  padding-top: 100px;
+  background-color: #663dff;
+  background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
 }
-main div .col {
-  background-color: #7D6AA6;
+main div article {
+  background-color: #f907fc;
+  background-image: linear-gradient(315deg, #f907fc 0%, #05d6d9 74%);
+}
+main div article p {
+  color: white;
+}
+main div .featurette-heading {
+  color: white;
+}
+main div .featurette-heading span {
+  color: #111;
+}
+main div .lead {
+  color: white;
 }
 main div .card {
-  background-color: #7D6AA6;
-}
-main div .card h3 {
-  background-color: #A988F2;
-}
-main div .card p {
-  background-color: #BFBFBF;
+  background-color: #08e1ae;
+  background-image: linear-gradient(315deg, #08e1ae 0%, #98de5b 74%);
 }
 
 /*# sourceMappingURL=destino.css.map */
