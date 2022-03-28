@@ -1,5 +1,21 @@
 /*Import*/
 /*Anidamiento*/
+header .navbar-brand {
+  margin: 0;
+  padding: 0;
+  font-family: "Great Vibes", cursive;
+  /* Degradado sobre texto */
+  background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+header .navbar-brand h1 {
+  margin: 0 0 0 10px;
+  padding: 0;
+}
+
 main {
   padding-top: 100px;
   background-color: #663dff;
